@@ -42,7 +42,6 @@ namespace WarehouseSystem.ViewModels.Mobile
             Functions = new ObservableCollection<Function>();
             Functions.Add(new Data());
             Functions.Add(new NewCustomer());
-
         }
 
         private void RelayCommands()
