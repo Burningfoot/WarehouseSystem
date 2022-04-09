@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WarehouseSystem.Models.Functions
 {
-    public class NewCustomer : Function
+    public class NewCustomer : IFunction
     {
         public string Name { get; set; }
         public List<Warehouse> DataList { get; set; }

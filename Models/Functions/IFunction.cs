@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace WarehouseSystem.Models.Functions
 {
-    public interface Function
+    public interface IFunction
     {
         string Name { get; set; }
         List<Warehouse> DataList { get; set; }

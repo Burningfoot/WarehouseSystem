@@ -10,19 +10,19 @@ using WarehouseSystem.Models.Tools;
 
 namespace WarehouseSystem.ViewModels.Mobile
 {
-    public class MainViewModel: BaseViewModel
+    public class MainViewModelMobile: BaseViewModel
     {
-        private ObservableCollection<Function> _functions;
+        private ObservableCollection<IFunction> _functions;
 
-        public ObservableCollection<Function> Functions
+        public ObservableCollection<IFunction> Functions
         {
             get { return _functions; }
             set { _functions = value; }
         }
 
-        private Function _selectedFunction;
+        private IFunction _selectedFunction;
 
-        public Function SelectedFunction
+        public IFunction SelectedFunction
         {
             get { return _selectedFunction; }
             set { _selectedFunction = value; OnPropertyChange(); }
@@ -31,7 +31,7 @@ namespace WarehouseSystem.ViewModels.Mobile
 
         public RelayCommand<Button> BackBtn { get; set; }
 
-        public MainViewModel()
+        public MainViewModelMobile()
         {
             RelayCommands();
             GetFunctions();
@@ -39,7 +39,7 @@ namespace WarehouseSystem.ViewModels.Mobile
 
         private void GetFunctions()
         {
-            Functions = new ObservableCollection<Function>();
+            Functions = new ObservableCollection<IFunction>();
             Functions.Add(new Data());
             Functions.Add(new NewCustomer());
         }

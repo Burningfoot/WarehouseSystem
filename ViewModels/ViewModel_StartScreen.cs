@@ -28,7 +28,7 @@ namespace WarehouseSystem.ViewModels
             Click_Mobile = new RelayCommand<Button>((o) =>
             {
                 TextOnClick = "Mobile!";
-                MainViewModel.OnChangeView(new Mobile.MainViewModel());
+                MainViewModel.OnChangeView(new Mobile.MainViewModelMobile());
             });
             Click_Home = new RelayCommand<Button>((o) =>
             {

@@ -23,7 +23,7 @@ namespace WarehouseSystem.Views.Mobile
     {
         public MobileMain()
         {
-            DataContext = new MainViewModel();
+            DataContext = new MainViewModelMobile();
             InitializeComponent();
         }
     }

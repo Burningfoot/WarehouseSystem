@@ -10,7 +10,7 @@
     <DataTemplate DataType="{x:Type ViewModels:ViewModel_StartScreen}">
         <Views:View_StartScreen />
     </DataTemplate>
-    <DataTemplate DataType="{x:Type ViewModelsMobile:MainViewModel}" >
+    <DataTemplate DataType="{x:Type ViewModelsMobile:MainViewModelMobile}" >
         <ViewsMobile:MobileMain />
     </DataTemplate>
 </ResourceDictionary>
