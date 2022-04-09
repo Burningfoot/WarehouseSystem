@@ -7,19 +7,6 @@ namespace WarehouseSystem.ViewModels
     {
         static event ViewChange ShowView; //View Wechlser
         private BaseViewModel _currentView;
-
-        static private MainViewModel _instance;
-
-        static public MainViewModel Instance
-        {
-            get
-            {
-                if (_instance != null)
-                    return _instance;
-                else
-                    return _instance = new MainViewModel();
-            }
-        }
         public BaseViewModel CurrentView
         {
             get { return _currentView; }
@@ -29,8 +16,6 @@ namespace WarehouseSystem.ViewModels
         {
             CurrentView = new ViewModel_StartScreen();
             ShowView += (model) => CurrentView = model;
-            _instance = this;
-
         }
         public static void OnChangeView(BaseViewModel model)
         {
