@@ -13,7 +13,4 @@
     <DataTemplate DataType="{x:Type ViewModelsMobile:MainViewModel}" >
         <ViewsMobile:MobileMain />
     </DataTemplate>
-    
-    
-    
 </ResourceDictionary>
