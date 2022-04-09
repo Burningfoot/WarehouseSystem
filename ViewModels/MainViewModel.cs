@@ -22,8 +22,8 @@ namespace WarehouseSystem.ViewModels
         private void Relaycommands()
         {
             Click = new RelayCommand<Button>((o) => 
-            { 
-                
+            {
+                TextOnClick = "Test blah!";
             });
         }
     }
