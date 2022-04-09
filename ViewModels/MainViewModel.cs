@@ -5,26 +5,25 @@ namespace WarehouseSystem.ViewModels
 {
     public class MainViewModel : BaseViewModel
     {
-        public RelayCommand<Button> Click { get; set; }
-        private string _textOnClick;
+        static event ViewChange ShowView; //View Wechlser
 
-        public string TextOnClick
+        private BaseViewModel _currentView;
+
+        public BaseViewModel CurrentView
         {
-            get { return _textOnClick; }
-            set { _textOnClick = value; OnPropertyChange(); }
+            get { return _currentView; }
+            set { _currentView = value; OnPropertyChange(); }
         }
 
         public MainViewModel()
         {
-            Relaycommands();
+            CurrentView = new ViewModel_StartScreen();
+            ShowView += (model) => CurrentView = model;
         }
-
-        private void Relaycommands()
-        {
-            Click = new RelayCommand<Button>((o) => 
-            {
-                TextOnClick = "Test blah!";
-            });
+        public static void OnChangeView(BaseViewModel model) 
+        { 
+            ShowView?.Invoke(model);
         }
     }
+    public delegate void ViewChange(BaseViewModel model);
 }

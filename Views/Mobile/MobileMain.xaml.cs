@@ -12,16 +12,16 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using WarehouseSystem.ViewModels;
+using WarehouseSystem.ViewModels.Mobile;
 
-namespace WarehouseSystem.Views
+namespace WarehouseSystem.Views.Mobile
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaktionslogik für MobileMain.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class MobileMain : UserControl
     {
-        public MainWindow()
+        public MobileMain()
         {
             DataContext = new MainViewModel();
             InitializeComponent();
