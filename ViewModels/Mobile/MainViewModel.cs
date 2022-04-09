@@ -48,7 +48,7 @@ namespace WarehouseSystem.ViewModels.Mobile
         {
             BackBtn = new RelayCommand<Button>((o) => 
             { 
-                OnChangeView(new ViewModel_StartScreen());
+                ViewModels.MainViewModel.OnChangeView(new ViewModel_StartScreen());
             });
         }
     }
