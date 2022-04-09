@@ -1,16 +1,11 @@
-﻿using GalaSoft.MvvmLight.Command;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Windows.Controls;
 using WarehouseSystem.Models.Tools;
 
 namespace WarehouseSystem.ViewModels
 {
     public class MainViewModel : BaseViewModel
     {
-        public RelayCommand Click { get; set; }
+        public RelayCommand<Button> Click { get; set; }
         private string _textOnClick;
 
         public string TextOnClick
@@ -26,11 +21,10 @@ namespace WarehouseSystem.ViewModels
 
         private void Relaycommands()
         {
-            Click = new RelayCommand(() => 
-            {
-                TextOnClick = "Test blah!";
+            Click = new RelayCommand<Button>((o) => 
+            { 
+                
             });
-            
         }
     }
 }
