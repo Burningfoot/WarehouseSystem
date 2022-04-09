@@ -13,6 +13,6 @@ namespace WarehouseSystem.Models
         public string AddressCityName { get; set; }
         public int Postcode { get; set; }
         public string PhoneNumber { get; set; }
-
+        public Supervisor Supervisor { get; set; }
     }
 }
