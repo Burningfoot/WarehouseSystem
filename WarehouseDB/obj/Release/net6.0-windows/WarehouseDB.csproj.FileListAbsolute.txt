@@ -1,0 +1,14 @@
+D:\Projekte\WarehouseSystem\WarehouseDB\bin\Release\net6.0-windows\WarehouseDB.deps.json
+D:\Projekte\WarehouseSystem\WarehouseDB\bin\Release\net6.0-windows\WarehouseDB.runtimeconfig.json
+D:\Projekte\WarehouseSystem\WarehouseDB\bin\Release\net6.0-windows\WarehouseDB.dll
+D:\Projekte\WarehouseSystem\WarehouseDB\bin\Release\net6.0-windows\WarehouseDB.pdb
+D:\Projekte\WarehouseSystem\WarehouseDB\obj\Release\net6.0-windows\WarehouseDB.csproj.AssemblyReference.cache
+D:\Projekte\WarehouseSystem\WarehouseDB\obj\Release\net6.0-windows\WarehouseDB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekte\WarehouseSystem\WarehouseDB\obj\Release\net6.0-windows\WarehouseDB.AssemblyInfoInputs.cache
+D:\Projekte\WarehouseSystem\WarehouseDB\obj\Release\net6.0-windows\WarehouseDB.AssemblyInfo.cs
+D:\Projekte\WarehouseSystem\WarehouseDB\obj\Release\net6.0-windows\WarehouseDB.csproj.CoreCompileInputs.cache
+D:\Projekte\WarehouseSystem\WarehouseDB\obj\Release\net6.0-windows\WarehouseDB.dll
+D:\Projekte\WarehouseSystem\WarehouseDB\obj\Release\net6.0-windows\refint\WarehouseDB.dll
+D:\Projekte\WarehouseSystem\WarehouseDB\obj\Release\net6.0-windows\WarehouseDB.pdb
+D:\Projekte\WarehouseSystem\WarehouseDB\obj\Release\net6.0-windows\WarehouseDB.genruntimeconfig.cache
+D:\Projekte\WarehouseSystem\WarehouseDB\obj\Release\net6.0-windows\ref\WarehouseDB.dll
