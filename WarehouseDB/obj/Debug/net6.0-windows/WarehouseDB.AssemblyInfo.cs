@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WarehouseDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+572c9c139ca542d07a711176ab421ca7c4dd99f8")]
 [assembly: System.Reflection.AssemblyProductAttribute("WarehouseDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WarehouseDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

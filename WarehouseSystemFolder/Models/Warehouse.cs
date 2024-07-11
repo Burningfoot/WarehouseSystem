@@ -33,7 +33,8 @@ namespace WarehouseSystem.Models
 
         public async Task<IEnumerable<Warehouse>> GetAllWarehouses()
         {
-            return await _warehouseProvider.GetAllWarehouses();
+            //return await _warehouseProvider.GetAllWarehouses();
+            return null;
         }
 
         public async Task AddWarehouse(Warehouse warehouse)

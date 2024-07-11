@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projekte\\WarehouseSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|d:\\projekte\\warehousesystem\\warehousesystemfolder\\models\\functions\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|solutionrelative:warehousesystemfolder\\models\\functions\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|d:\\projekte\\warehousesystem\\warehousesystemfolder\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|solutionrelative:warehousesystemfolder\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|d:\\projekte\\warehousesystem\\warehousesystemfolder\\viewmodels\\viewmodel_startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|solutionrelative:warehousesystemfolder\\viewmodels\\viewmodel_startscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|d:\\projekte\\warehousesystem\\warehousesystemfolder\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|solutionrelative:warehousesystemfolder\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|d:\\projekte\\warehousesystem\\warehousesystemfolder\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|solutionrelative:warehousesystemfolder\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|d:\\projekte\\warehousesystem\\warehousesystemfolder\\viewmodels\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|solutionrelative:warehousesystemfolder\\viewmodels\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|d:\\projekte\\warehousesystem\\warehousesystemfolder\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|solutionrelative:warehousesystemfolder\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|d:\\projekte\\warehousesystem\\warehousesystemfolder\\models\\tools\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|solutionrelative:warehousesystemfolder\\models\\tools\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|d:\\projekte\\warehousesystem\\warehousesystemfolder\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|solutionrelative:warehousesystemfolder\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|d:\\projekte\\warehousesystem\\warehousesystemfolder\\views\\view_startscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|solutionrelative:warehousesystemfolder\\views\\view_startscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|d:\\projekte\\warehousesystem\\warehousesystemfolder\\views\\mobile\\mobilemain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|solutionrelative:warehousesystemfolder\\views\\mobile\\mobilemain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|d:\\projekte\\warehousesystem\\warehousesystemfolder\\ressources\\ressourcesbindings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7C9EF7F4-3D80-45C1-AD80-20C325687096}|WarehouseSystemFolder\\WarehouseSystem.csproj|solutionrelative:warehousesystemfolder\\ressources\\ressourcesbindings.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\Models\\Warehouse.cs",
+              "RelativeDocumentMoniker": "WarehouseSystemFolder\\Models\\Warehouse.cs",
+              "ToolTip": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\Models\\Warehouse.cs",
+              "RelativeToolTip": "WarehouseSystemFolder\\Models\\Warehouse.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvyQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:01:29.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WarehouseSystemFolder\\App.xaml.cs",
+              "ToolTip": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\App.xaml.cs",
+              "RelativeToolTip": "WarehouseSystemFolder\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:58:15.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\App.xaml",
+              "RelativeDocumentMoniker": "WarehouseSystemFolder\\App.xaml",
+              "ToolTip": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\App.xaml",
+              "RelativeToolTip": "WarehouseSystemFolder\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T13:58:09.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data.cs",
+              "DocumentMoniker": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\Models\\Functions\\Data.cs",
+              "RelativeDocumentMoniker": "WarehouseSystemFolder\\Models\\Functions\\Data.cs",
+              "ToolTip": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\Models\\Functions\\Data.cs",
+              "RelativeToolTip": "WarehouseSystemFolder\\Models\\Functions\\Data.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:20:35.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "View_StartScreen.xaml",
+              "DocumentMoniker": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\Views\\View_StartScreen.xaml",
+              "RelativeDocumentMoniker": "WarehouseSystemFolder\\Views\\View_StartScreen.xaml",
+              "ToolTip": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\Views\\View_StartScreen.xaml",
+              "RelativeToolTip": "WarehouseSystemFolder\\Views\\View_StartScreen.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T11:54:29.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WarehouseSystemFolder\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "WarehouseSystemFolder\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T11:54:18.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MobileMain.xaml",
+              "DocumentMoniker": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\Views\\Mobile\\MobileMain.xaml",
+              "RelativeDocumentMoniker": "WarehouseSystemFolder\\Views\\Mobile\\MobileMain.xaml",
+              "ToolTip": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\Views\\Mobile\\MobileMain.xaml",
+              "RelativeToolTip": "WarehouseSystemFolder\\Views\\Mobile\\MobileMain.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T11:52:59.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RessourcesBindings.xaml",
+              "DocumentMoniker": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\Ressources\\RessourcesBindings.xaml",
+              "RelativeDocumentMoniker": "WarehouseSystemFolder\\Ressources\\RessourcesBindings.xaml",
+              "ToolTip": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\Ressources\\RessourcesBindings.xaml",
+              "RelativeToolTip": "WarehouseSystemFolder\\Ressources\\RessourcesBindings.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-13T11:24:51.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModel_StartScreen.cs",
+              "DocumentMoniker": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\ViewModels\\ViewModel_StartScreen.cs",
+              "RelativeDocumentMoniker": "WarehouseSystemFolder\\ViewModels\\ViewModel_StartScreen.cs",
+              "ToolTip": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\ViewModels\\ViewModel_StartScreen.cs",
+              "RelativeToolTip": "WarehouseSystemFolder\\ViewModels\\ViewModel_StartScreen.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-19T11:30:18.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WarehouseSystemFolder\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WarehouseSystemFolder\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-19T11:30:11.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\Models\\Tools\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "WarehouseSystemFolder\\Models\\Tools\\RelayCommand.cs",
+              "ToolTip": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\Models\\Tools\\RelayCommand.cs",
+              "RelativeToolTip": "WarehouseSystemFolder\\Models\\Tools\\RelayCommand.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-19T11:29:31.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\ViewModels\\BaseModel.cs",
+              "RelativeDocumentMoniker": "WarehouseSystemFolder\\ViewModels\\BaseModel.cs",
+              "ToolTip": "D:\\Projekte\\WarehouseSystem\\WarehouseSystemFolder\\ViewModels\\BaseModel.cs",
+              "RelativeToolTip": "WarehouseSystemFolder\\ViewModels\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2022-05-19T11:26:39.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
